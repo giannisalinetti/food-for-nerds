@@ -10,7 +10,7 @@ this minimal recipe where the super quality of ingredients is the key.
 For 2 people you need:
 
 - 300 gr of spaghetti or rigatoni (I like it abundant). 
-  Best labels are: De Cecco, Garofalo, Del Verde, Rummo. Stay away from Barilla.
+  Best labels are: De Cecco, Garofalo, Del Verde, Rummo. Stay away from Barilla. Benedetto Cavalieri if you are cooking dinner for the woman you plan to marry. http://www.benedettocavalieri.it/portfolio_category/pasta-di-semola-di-grano-duro/
   My favorite is one is Rummo:
     http://www.pastarummo.it/en/
     https://www.onlyitalianproducts.it/pasta/pasta-rummo/7196-spaghetti-grossi-n-5-pasta-rummo-.html
