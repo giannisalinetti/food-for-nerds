@@ -10,11 +10,12 @@ this minimal recipe where the super quality of ingredients is the key.
 For 2 people you need:
 
 - 300 gr of spaghetti or rigatoni (I like it abundant). 
-  Best labels are: De Cecco, Garofalo, Del Verde, Rummo. Stay away from Barilla. Benedetto Cavalieri if you are cooking dinner for the woman you plan to marry. http://www.benedettocavalieri.it/portfolio_category/pasta-di-semola-di-grano-duro/
-  My favorite is one is Rummo:
-    http://www.pastarummo.it/en/
-    https://www.onlyitalianproducts.it/pasta/pasta-rummo/7196-spaghetti-grossi-n-5-pasta-rummo-.html
-    http://www.inpuntadiforchetta.com/spaghetti-n-3-pasta-rummo/
+  Best labels are: De Cecco, Garofalo, Del Verde, Rummo. Stay away from Barilla. 
+  Benedetto Cavalieri if you are cooking dinner for the woman you plan to marry. http://www.benedettocavalieri.it/portfolio_category/pasta-di-semola-di-grano-duro/
+  Another great brand is Rummo:
+  http://www.pastarummo.it/en/
+  https://www.onlyitalianproducts.it/pasta/pasta-rummo/7196-spaghetti-grossi-n-5-pasta-rummo-.html
+  http://www.inpuntadiforchetta.com/spaghetti-n-3-pasta-rummo/
 - 3 very fresh eggs. Best if organic. I use one egg for every 100gr of past.
   Some people use the whole eggs, and I did it for a while. Lately I prefer to 
   use only the yolk with an extra egg white part. A nice mix is the yolk of 
@@ -61,9 +62,10 @@ to the egg and keep blending, until you have a creamy mix (not too much dense ye
 Check the guanciale, it should become a little crispy but not too much and it 
 should have released a lot of grease. Don't overcook or it will become too dry and
 thin loosing the right consistence.
-When it's done take away 2/3 of the guanciale slices from the pan. Put some of 
-them (4/5 pieces are enough) and a little spool of its grease in the egg and 
-incorporate. This will help to not cook the egg to much later. 
+When it's done take away 2/3 of the guanciale slices from the pan. You will use them
+for the final topping when serving the dishes. Put some slices (4/5 pieces are enough) 
+and a little spool of its grease in the egg and incorporate. 
+This will help to not cook the egg to much later. 
 
 When the water boils (not before) add the pasta and cook it for the right time 
 (the brands I suggested usually need 11-13 minutes). Cook it for two minutes less 
@@ -89,9 +91,12 @@ and keep on mixing.
 When you get a creamy result you are ready to serve. The level of egg cooking is 
 something very personal: some people prefer it very rare, some other well done.
 
-Add a small amount of pecorino on the dish and pepper to decorare. 
+### Serving
+Serve the pasta in you favorite dishes. Add the guangiale slices on top of it.
+Add a small amount of pecorino on the dish and pepper to decorare.
 
 Your carbonara is ready. Taste galore!
 
-Tell about the results, maybe send me a photo!
+### Feedbacks
+Feel free to share the results, maybe send a photo!
 
