@@ -22,9 +22,8 @@ For 2 people you need:
 - a good Pecorino cheese. Here are some links to buy it online:
     https://www.italy-foods.com/food-shop/formaggi-stagionati/175-pecorino-romano-dop-brunelli-85-kg-ca.html (best choice)
     https://www.salumieprodottitipici.it/en/cheese-and-dairy-/54-pecorino-romano-0656272496746.html
-- Guanciale (pork cheek). You have a very good one.
-    In the future, when it will be finished, in the wait for our next meeting,
-    you can check out these links:
+- Guanciale (pork cheek).
+    If you can't find it at a local grocery check out these links:
     https://www.italy-foods.com/food-shop/altri-salumi-affettati/26-guanciale-toscano-affettato.html?search_query=guanciale&results=3
     https://www.amazingfood.it/en/guanciale-from-colonnata-kg-0-996-ca.html
 - Salt and pepper. Better if you have raw pepper to freshly shred, it will
