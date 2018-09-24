@@ -9,21 +9,21 @@ this minimal recipe where the super quality of ingredients is the key.
 
 For 2 people you need:
 
-- 300 gr of spaghetti or rigatoni (I like it abundant). 
+- 300 gr of **pasta**, best choice are **spaghetti** or **rigatoni**.
   Best labels are: De Cecco, Garofalo, Del Verde, Rummo. Stay away from Barilla. 
   Benedetto Cavalieri if you are cooking dinner for the woman you plan to marry. http://www.benedettocavalieri.it/portfolio_category/pasta-di-semola-di-grano-duro/
   Another great brand is Rummo:
   http://www.pastarummo.it/en/
   https://www.onlyitalianproducts.it/pasta/pasta-rummo/7196-spaghetti-grossi-n-5-pasta-rummo-.html
   http://www.inpuntadiforchetta.com/spaghetti-n-3-pasta-rummo/
-- 3 very fresh eggs. Best if organic. I use one egg for every 100gr of past.
+- 3 very fresh **eggs**. Best if organic. I use one egg for every 100gr of past.
   Some people use the whole eggs, and I did it for a while. Lately I prefer to 
   use only the yolk with an extra egg white part. A nice mix is the yolk of 
   2 eggs and a third whole egg.
-- a good Pecorino cheese. Here are some links to buy it online:
+- a good **Pecorino** cheese. Here are some links to buy it online:
     https://www.italy-foods.com/food-shop/formaggi-stagionati/175-pecorino-romano-dop-brunelli-85-kg-ca.html (best choice)
     https://www.salumieprodottitipici.it/en/cheese-and-dairy-/54-pecorino-romano-0656272496746.html
-- Guanciale (pork cheek).
+- **Guanciale** (pork cheek).
     If you can't find it at a local grocery check out these links:
     https://www.italy-foods.com/food-shop/altri-salumi-affettati/26-guanciale-toscano-affettato.html?search_query=guanciale&results=3
     https://www.amazingfood.it/en/guanciale-from-colonnata-kg-0-996-ca.html
@@ -97,6 +97,6 @@ Add a small amount of pecorino on the dish and pepper to decorare.
 
 Your carbonara is ready. Taste galore!
 
-### Feedbacks
-Feel free to share the results, maybe send a photo!
+## Feedbacks
+Feel free to add PRs, issues, share the results, maybe send a photo!
 
