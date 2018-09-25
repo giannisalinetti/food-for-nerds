@@ -65,7 +65,7 @@ thin loosing the right consistence.
 When it's done take away 2/3 of the guanciale slices from the pan. You will use them
 for the final topping when serving the dishes. Put some slices (4/5 pieces are enough) 
 and a little spool of its grease in the egg and incorporate. 
-This will help to not cook the egg to much later. 
+This will help to not cook the egg too much later on. 
 
 When the water boils (not before) add the pasta and cook it for the right time 
 (the brands I suggested usually need 11-13 minutes). Cook it for two minutes less 
